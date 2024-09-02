@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "WeDevs Confidential",
+    "version": "1.0",
+    "description": "A Chrome extension that hides the Job menu option and manages user confirmation.",
+    "author": "Pronob Mozumder",
+    "permissions": ["storage", "activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["https://lounge.wedevs.com/wp-admin/admin.php?page=erp-hr*"],
+        "js": ["content.js"],
+        "css": ["styles.css"]
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
