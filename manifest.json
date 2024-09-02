@@ -13,7 +13,12 @@
       }
     ],
     "action": {
-      "default_popup": "popup.html"
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "assets/wedevs-icon-16x16.png",
+        "48": "assets/wedevs-icon-48x48.png",
+        "128": "assets/wedevs-icon-128x128.png"
+      }
     }
   }
   
