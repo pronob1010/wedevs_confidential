@@ -26,12 +26,5 @@ WeDevs Confidential is a Chrome extension to manage the visibility of the Job me
 ### After
 ![image](https://github.com/user-attachments/assets/4a3e7eb1-df09-4c7e-a2d6-e14bd9407b61)
 
-
-
-
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
-
-## Contact
-- **Author**: Pronob Mozumder
-- **Email**: [pronobmozumder.info@gmail.com](mailto:pronobmozumder.info@gmail.com)
