@@ -20,7 +20,7 @@ WeDevs Confidential is a Chrome extension to manage the visibility of the Job me
 - **Confidential Message**: If the Job menu option is hidden, a confidential message will be displayed on the page.
 
 ## Settings
-![image](https://github.com/user-attachments/assets/b8681cf0-19f7-41d7-9490-ea491cf2d42a)
+![image](https://github.com/user-attachments/assets/e4b16b4d-023a-4eee-9768-01117e94ccda)
 
 ### Before : 
 ![image](https://github.com/user-attachments/assets/e328bedf-d610-489b-8df4-a588e25f401e)
